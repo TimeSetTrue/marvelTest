@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/marvelTest/static/css/main.32f9fd03.chunk.css",
+    "main.js": "/marvelTest/static/js/main.4703e2ed.chunk.js",
+    "main.js.map": "/marvelTest/static/js/main.4703e2ed.chunk.js.map",
+    "runtime-main.js": "/marvelTest/static/js/runtime-main.36f9f80b.js",
+    "runtime-main.js.map": "/marvelTest/static/js/runtime-main.36f9f80b.js.map",
+    "static/js/2.b1f5c0ef.chunk.js": "/marvelTest/static/js/2.b1f5c0ef.chunk.js",
+    "static/js/2.b1f5c0ef.chunk.js.map": "/marvelTest/static/js/2.b1f5c0ef.chunk.js.map",
+    "index.html": "/marvelTest/index.html",
+    "static/css/main.32f9fd03.chunk.css.map": "/marvelTest/static/css/main.32f9fd03.chunk.css.map",
+    "static/js/2.b1f5c0ef.chunk.js.LICENSE.txt": "/marvelTest/static/js/2.b1f5c0ef.chunk.js.LICENSE.txt",
+    "static/media/abyss.93d211d3.jpg": "/marvelTest/static/media/abyss.93d211d3.jpg",
+    "static/media/error.42292aa1.gif": "/marvelTest/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/marvelTest/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/marvelTest/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36f9f80b.js",
+    "static/js/2.b1f5c0ef.chunk.js",
+    "static/css/main.32f9fd03.chunk.css",
+    "static/js/main.4703e2ed.chunk.js"
+  ]
+}
