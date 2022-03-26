@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TimeSetTrue/marvelTest.git/static/css/main.32f9fd03.chunk.css",
+    "main.js": "/TimeSetTrue/marvelTest.git/static/js/main.4703e2ed.chunk.js",
+    "main.js.map": "/TimeSetTrue/marvelTest.git/static/js/main.4703e2ed.chunk.js.map",
+    "runtime-main.js": "/TimeSetTrue/marvelTest.git/static/js/runtime-main.0464b860.js",
+    "runtime-main.js.map": "/TimeSetTrue/marvelTest.git/static/js/runtime-main.0464b860.js.map",
+    "static/js/2.b1f5c0ef.chunk.js": "/TimeSetTrue/marvelTest.git/static/js/2.b1f5c0ef.chunk.js",
+    "static/js/2.b1f5c0ef.chunk.js.map": "/TimeSetTrue/marvelTest.git/static/js/2.b1f5c0ef.chunk.js.map",
+    "index.html": "/TimeSetTrue/marvelTest.git/index.html",
+    "static/css/main.32f9fd03.chunk.css.map": "/TimeSetTrue/marvelTest.git/static/css/main.32f9fd03.chunk.css.map",
+    "static/js/2.b1f5c0ef.chunk.js.LICENSE.txt": "/TimeSetTrue/marvelTest.git/static/js/2.b1f5c0ef.chunk.js.LICENSE.txt",
+    "static/media/abyss.93d211d3.jpg": "/TimeSetTrue/marvelTest.git/static/media/abyss.93d211d3.jpg",
+    "static/media/error.42292aa1.gif": "/TimeSetTrue/marvelTest.git/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/TimeSetTrue/marvelTest.git/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/TimeSetTrue/marvelTest.git/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0464b860.js",
+    "static/js/2.b1f5c0ef.chunk.js",
+    "static/css/main.32f9fd03.chunk.css",
+    "static/js/main.4703e2ed.chunk.js"
+  ]
+}
